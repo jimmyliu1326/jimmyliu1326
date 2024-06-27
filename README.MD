@@ -1,3 +1,4 @@
+![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmyliu1326&theme=transparent)
 <a href="https://github.com/jimmyliu1326">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyliu1326&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
