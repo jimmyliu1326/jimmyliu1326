@@ -1,6 +1,14 @@
 <p align="center">
-<img height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmyliu1326&theme=transparent&card_width=800" />
+<img height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmyliu1326&theme=transparent&card_width=200" />
 </p>
+
+<a href="https://github.com/jimmyliu1326">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmyliu1326&theme=transparent&card_width=200" />
+</a>
+<a href="https://github.com/jimmyliu1326">
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jimmyliu1326&theme=transparent" />
+</a>
+
 
 ### Frequently used languages and software
 
