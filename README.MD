@@ -4,7 +4,7 @@
 
 ### Frequently used languages and software
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,bash,vscode,github,githubactions,linux,docker,anaconda&per_line=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,bash,vscode,github,githubactions,linux,docker,anaconda&perline=4)](https://skillicons.dev)
 
 ### Connect with me
 
