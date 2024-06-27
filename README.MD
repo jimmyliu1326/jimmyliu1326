@@ -4,9 +4,7 @@
 
 ### Skills
 
-<p align="left">
-![My Skills](https://skillicons.dev/icons?i=r,bash,vscode,github,githubactions,linux,docker,anaconda&theme=transparent)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=r,bash,vscode,github,githubactions,linux,docker,anaconda&theme=transparent)](https://skillicons.dev)
 
 ### Socials
 
