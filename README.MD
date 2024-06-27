@@ -1,6 +1,3 @@
-Hi 👋 My name is Jimmy Liu
-=================================================================================================================================
-
 <p align="center">
 <img height=250 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jimmyliu1326&theme=transparent&card_width=800" />
 </p>
