@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=jimmyliu1326&show_icons=true&theme=transparent&rank_icon=github&card_width=300)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=jimmyliu1326&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/stats-organization/github-stats-extended)
 
 ### Frequently used languages and software
 
