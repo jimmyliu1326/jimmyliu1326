@@ -7,5 +7,4 @@
 ### Connect with me
 
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/jimmyliu1326)
-[![x](https://skillicons.dev/icons?i=twitter)](https://x.com/jimmyliu1326)
 [![x](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jimmyliu1326)
